@@ -5,6 +5,6 @@ Based on the definition of DIP:
 - High and low-level objects should depend on abstraction, but abstraction should not depend on details.
 - The perfect way to solve this problem is with **interfaces**.
 
-## Context
+## Problem
 - The following example is with errors.
-- Fix the architecture of this example applying DIP
+- Fix the architecture of this example using DIP
